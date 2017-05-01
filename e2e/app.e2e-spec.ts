@@ -1,6 +1,6 @@
 import { Angular2ContactsPage } from './app.po';
 
-describe('angular2-contacts App', function() {
+describe('angular2-contacts App', () => {
   let page: Angular2ContactsPage;
 
   beforeEach(() => {
