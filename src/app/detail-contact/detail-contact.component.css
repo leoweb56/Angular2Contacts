@@ -1,5 +1,39 @@
 .detail-wrap{
     width: 70%;
-    background-color: aquamarine;
     float: left;
+}
+
+.wrap-photo{
+    padding: 40px;
+    float: left;
+    width: 15%;
+}
+
+.photo-desc{
+    float: left;
+    width: 60%;
+    margin-top: 50px;
+}
+
+.photo-desc h1{
+    margin: 0;
+}
+h2{
+    color: gray;
+}
+p{
+    font-size: 1.3em;
+}
+.section{
+    float: left;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right
 }

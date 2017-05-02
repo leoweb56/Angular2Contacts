@@ -14,4 +14,7 @@ export class DetailContactComponent implements OnInit {
   ngOnInit() {
   }
 
+  getBirthday(){
+    return new Date(parseInt(this.contact.birthdate));
+  }
 }
