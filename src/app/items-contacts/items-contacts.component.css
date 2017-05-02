@@ -1,0 +1,8 @@
+.items-wrap{
+    width: 30%;
+    float: left;
+    overflow-y: auto;
+    overflow-x: none;
+    height: 100%;
+}
+
