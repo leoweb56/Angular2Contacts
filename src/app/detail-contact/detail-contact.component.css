@@ -1,6 +1,8 @@
 .detail-wrap{
     width: 70%;
     float: left;
+    height: 100%;
+    overflow-y: auto;
 }
 
 .wrap-photo{
