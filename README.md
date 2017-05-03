@@ -1,6 +1,6 @@
 # Components Diagram
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/leoweb56/Angular2Contacts/master/ComponentDiagram.png)
 
 # Angular2Contacts
 
