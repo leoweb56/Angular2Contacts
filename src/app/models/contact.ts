@@ -20,5 +20,6 @@ export interface IContact{
         zip: string,
         latitude: number,
         longitude: number
-    }
+    },
+    selected: boolean
 }

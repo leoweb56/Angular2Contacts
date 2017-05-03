@@ -3,6 +3,7 @@
     height: 100px;
     border-bottom: 1px solid black;
     display: inline-block;
+    cursor: pointer;
 }
 
 .img-contact{
@@ -20,4 +21,8 @@
 
 .contact-data h3{
     margin: 10px 0;
+}
+
+.selected{
+    background-color: #506060;
 }

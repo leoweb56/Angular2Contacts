@@ -16,11 +16,12 @@ export class ListContactsComponent implements OnInit {
 
   }
 
-  changeContact(contact: IContact){
-    this.contactSelected = contact;
-  }
-
   setContact(contact: IContact){
+    if(this.contactSelected != null){
+      this.contactSelected.selected = false;
+    }
+
+    contact.selected = true;
     this.contactSelected = contact;
   }
 

@@ -6,7 +6,7 @@
 }
 
 .wrap-photo{
-    padding: 40px;
+    padding: 40px 40px 0 40px;
     float: left;
     width: 15%;
 }
@@ -38,4 +38,20 @@ p{
 }
 .right{
     float: right
+}
+.section .wrap-title{
+    box-sizing: border-box;
+    height: 50px;
+}
+.section .wrap-title .left{
+    width: 30%;
+}
+.section .wrap-title .right{
+    width: 70%;
+    text-align: right;
+}
+
+h2, p{
+    margin-top: 0.4em;
+    margin-bottom: 0.4em;
 }
