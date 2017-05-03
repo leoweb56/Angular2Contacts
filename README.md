@@ -1,3 +1,7 @@
+# Components Diagram
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 # Angular2Contacts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.1.
